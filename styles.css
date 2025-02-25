@@ -13,3 +13,17 @@ body {
     background-repeat: repeat;
     height: 600px;
 }
+
+nav {
+    height: 40px;
+    background-color: pink;
+    border-radius: 10px;
+}
+
+
+nav > ul {
+display: flex;
+list-style: none;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
